@@ -15,7 +15,6 @@ Constructors supported:
 from jnius import (
     JavaClass,
     MetaJavaClass,
-    JavaMethod,
 )
 
 __all__ = ("FunctionDeclaration",)
